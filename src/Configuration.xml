@@ -233,9 +233,8 @@
 			<Subsystem>Демо</Subsystem>
 			<CommonModule>МодификацияФорм</CommonModule>
 			<Document>Документ1</Document>
-			<DataProcessor>ОбработчикОшибокМодификацииФормНаЭкран</DataProcessor>
 			<DataProcessor>ОписанияМодификацийФорм</DataProcessor>
-			<DataProcessor>ОбработчикОшибокМодификацииФормПоУмолчанию</DataProcessor>
+			<DataProcessor>ГенераторПротоколаМодификацииФормПоУмолчанию</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
