@@ -48,8 +48,8 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
-			<Vendor/>
-			<Version/>
+			<Vendor>Alexey A. Stepanenko</Vendor>
+			<Version>1.0.0.1</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -232,8 +232,10 @@
 			<Subsystem>МодификацияФорм</Subsystem>
 			<Subsystem>Демо</Subsystem>
 			<CommonModule>МодификацияФорм</CommonModule>
+			<Document>Документ1</Document>
 			<DataProcessor>ОбработчикОшибокМодификацииФормНаЭкран</DataProcessor>
 			<DataProcessor>ОписанияМодификацийФорм</DataProcessor>
+			<DataProcessor>ОбработчикОшибокМодификацииФормПоУмолчанию</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
