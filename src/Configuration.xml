@@ -232,7 +232,10 @@
 			<Subsystem>МодификацияФорм</Subsystem>
 			<Subsystem>Демо</Subsystem>
 			<CommonModule>МодификацияФорм</CommonModule>
+			<CommonModule>МодификацияФормИдентификаторы</CommonModule>
 			<CommonModule>МодификацияФормПереопределеяемый</CommonModule>
+			<CommonModule>МодификацияФормОбработкаСвойствЭлемента</CommonModule>
+			<CommonModule>МодификацияФормОбработкаСвойствЭлементаПовтИсп</CommonModule>
 			<Document>Документ1</Document>
 			<DataProcessor>ОписанияМодификацийФорм</DataProcessor>
 			<DataProcessor>ГенераторПротоколаМодификацииФормПоУмолчанию</DataProcessor>
