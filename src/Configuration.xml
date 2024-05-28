@@ -232,6 +232,7 @@
 			<Subsystem>МодификацияФорм</Subsystem>
 			<Subsystem>Демо</Subsystem>
 			<CommonModule>МодификацияФорм</CommonModule>
+			<CommonModule>МодификацияФормПовтИсп</CommonModule>
 			<CommonModule>МодификацияФормИдентификаторы</CommonModule>
 			<CommonModule>МодификацияФормПереопределеяемый</CommonModule>
 			<CommonModule>МодификацияФормОбработкаСвойствЭлемента</CommonModule>
