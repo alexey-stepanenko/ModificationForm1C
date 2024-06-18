@@ -20,6 +20,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ГенераторПротоколаМодификацииФормПоУмолчанию</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодификацияФормИдентификаторы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодификацияФормПереопределеяемый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодификацияФормОбработкаСвойствЭлемента</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодификацияФормОбработкаСвойствЭлементаПовтИсп</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.МодификацияФормПовтИсп</xr:Item>
 			</Content>
 		</Properties>
