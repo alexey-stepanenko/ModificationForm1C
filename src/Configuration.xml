@@ -235,9 +235,10 @@
 			<CommonModule>МодификацияФормПовтИсп</CommonModule>
 			<CommonModule>МодификацияФормИдентификаторы</CommonModule>
 			<CommonModule>МодификацияФормПереопределяемый</CommonModule>
+			<CommonModule>МодификацияФормОбработкаСвойствЭлемента</CommonModule>
+			<CommonModule>МодификацияФормОбработкаСвойствЭлементаПовтИсп</CommonModule>
 			<CommonModule>МодификацияФормОбработкаСвойствЭлемента1</CommonModule>
 			<CommonModule>МодификацияФормОбработкаСвойствЭлементаПовтИсп1</CommonModule>
-			<CommonModule>МодификацияФормОбработкаСвойствЭлемента</CommonModule>
 			<Catalog>Справочник1</Catalog>
 			<Document>Документ1</Document>
 			<DataProcessor>ОписанияМодификацийФорм</DataProcessor>
