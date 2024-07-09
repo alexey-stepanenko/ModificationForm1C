@@ -49,8 +49,8 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Alexey A. Stepanenko</Vendor>
-			<Version>1.0.0.1</Version>
-			<UpdateCatalogAddress/>
+			<Version>1.0.0.2</Version>
+			<UpdateCatalogAddress>https://github.com/alexey-stepanenko/ModificationForm1C</UpdateCatalogAddress>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
 			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
